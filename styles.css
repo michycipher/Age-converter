@@ -121,7 +121,7 @@ a:hover {
     .flex-footer,
     .footer {
         display: block;
-        height: 10vh;
+        height: 10%;
         text-align: center;
     }
 }
